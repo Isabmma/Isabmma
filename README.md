@@ -26,6 +26,7 @@
   <br><br>
  ### ⚙️ GitHub Analytics
   ##
+  <br>
 <div align="center">
   <a href="https://github.com/Isabmma">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isabmma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
