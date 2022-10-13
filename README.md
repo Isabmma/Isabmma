@@ -1,9 +1,9 @@
 ### Hi there, I'm Isabeli Ambrózio 👋
   ##
  
- <br>- 🔭 I’m currently working on <strong>Business Analyst</strong>
- <br>- 🤓 I'm currently doing an MBA in Data Science at USP/Esalq (using R).
- <br>- 🌱 I’m currently learning Data Science at DataCamp (using python).
+ <br>- 🔭 I’m currently working on <strong>Business Analyst<strong>
+ <br>- 🤓 I'm currently doing an MBA in <strong>Data Science<strong> at USP/Esalq (using <strong>R<strong>).
+ <br>- 🌱 I’m currently learning <strong>Data Science<strong> at DataCamp (using <strong>python<strong>).
  <br>- 😄 Pronouns: she/her
 <br><br>
 
