@@ -2,7 +2,8 @@
   ##
  
  <br>- 🔭 I’m currently working on <strong>Business Analyst</strong>
- <br>- 🌱 I’m currently learning <strong>Python</strong> and <strong>NodeJS</strong>
+ <br>- 🤓 I'm currently doing an MBA in Data Science at USP/Esalq (using R).
+ <br>- 🌱 I’m currently learning Data Science at DataCamp (using python).
  <br>- 😄 Pronouns: she/her
 <br><br>
 
