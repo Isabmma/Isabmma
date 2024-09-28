@@ -2,7 +2,7 @@
   ##
  
  <br>- Data Scientist at Itaú Bank
- <br>- MBA in <strong>Data Science & Analytics</strong> at USP/Esalq (using <strong>R</strong>).
+ <br>- MBA in <strong>Data Science & Analytics</strong> at USP/Esalq (using <strong>R and Python</strong>).
  <br>- Pronouns: she/her
 <br><br>
 
