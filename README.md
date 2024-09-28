@@ -1,10 +1,9 @@
 ### Hi there, I'm Isabeli Ambrózio 👋
   ##
  
- <br>- 🔭 I’m currently working on <strong>Business Analyst</strong>
- <br>- 🤓 I'm currently doing an MBA in <strong>Data Science</strong> at USP/Esalq (using <strong>R</strong>).
- <br>- 🌱 I’m currently learning <strong>Data Science</strong> at DataCamp (using <strong>python</strong>).
- <br>- 😄 Pronouns: she/her
+ <br>- Data Scientist at Itaú Bank
+ <br>- MBA in <strong>Data Science & Analytics</strong> at USP/Esalq (using <strong>R</strong>).
+ <br>- Pronouns: she/her
 <br><br>
 
   <div> 
