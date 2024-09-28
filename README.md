@@ -1,9 +1,8 @@
 ### Hi there, I'm Isabeli Ambrózio 👋
   ##
  
- <br>- Data Scientist at Itaú Bank
- <br>- MBA in <strong>Data Science & Analytics</strong> at USP/Esalq (using <strong>R and Python</strong>).
- <br>- Pronouns: she/her
+ <br>Data Scientist at Itaú Bank
+ <br>MBA in <strong>Data Science & Analytics</strong> at USP/Esalq (using <strong>R and Python</strong>).
 <br><br>
 
   <div> 
